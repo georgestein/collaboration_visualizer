@@ -1,6 +1,7 @@
 # collaboration_visualizer
 a simple tool to visualize academic collaborations on a world map
 
+check out the final product at https://www.cita.utoronto.ca/~gstein/data/collaboration_visualization/collaboration_visualizer_planck_simons_wmap_cobe.html 
 
 includes: collaboration_visualizer jupyter notebook and data created during the IDIES/UofT Visualization Hackathon - Winter 2019
 
